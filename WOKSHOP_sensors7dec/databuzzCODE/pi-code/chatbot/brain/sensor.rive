@@ -1,0 +1,23 @@
+> object temper python
+   	import RPi.GPIO as GPIO
+	import Adafruit_DHT
+	DHTSensor = Adafruit_DHT.DHT11
+	GPIO_Pin = 23
+	humid, temper = Adafruit_DHT.read_retry(DHTSensor, GPIO_Pin)
+	return ("The temperature is: " + str(temper) + " Degree's celcius.")
+< object 
+
+> object humid python
+   	import RPi.GPIO as GPIO
+	import Adafruit_DHT
+	DHTSensor = Adafruit_DHT.DHT11
+	GPIO_Pin = 23
+	humid, temper = Adafruit_DHT.read_retry(DHTSensor, GPIO_Pin)
+	return ("The relative humidity is: " + str(humid) + " percent.")
+< object 
+
++ * temperature *
+- <call>temper</call>
+
++ * humidity *
+- <call>humid</call>

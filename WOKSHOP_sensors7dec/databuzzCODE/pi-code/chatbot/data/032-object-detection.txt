@@ -1,0 +1,11 @@
+2019-12-17 10:28:48.076296 = Obstacle detected
+2019-12-17 10:28:50.080171 = Obstacle detected
+2019-12-17 10:28:50.581286 = Obstacle detected
+2019-12-17 10:28:52.584549 = Obstacle detected
+2019-12-17 10:28:55.589225 = Obstacle detected
+2019-12-17 10:28:56.591037 = Obstacle detected
+2019-12-17 10:28:57.092128 = Obstacle detected
+2019-12-17 10:28:57.593233 = Obstacle detected
+2019-12-17 10:28:58.094339 = Obstacle detected
+2019-12-17 10:28:58.595440 = Obstacle detected
+2019-12-17 10:28:59.096557 = Obstacle detected
